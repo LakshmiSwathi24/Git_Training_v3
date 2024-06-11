@@ -1,2 +1,2 @@
-Revert comit 2
+Revert2
 this is sample file
