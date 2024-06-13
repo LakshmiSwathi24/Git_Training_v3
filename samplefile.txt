@@ -13,4 +13,8 @@ hello
 
 hi
 
+<<<<<<< Updated upstream
 This is the stash lecture ,change in main file
+=======
+This is the stash lecture ,change in file
+>>>>>>> Stashed changes
